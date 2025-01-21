@@ -10,11 +10,13 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 
 Here are some screenshots of the app:
 
-![Screenshot 1](https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg)
-![Screenshot 2](https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg)
-![Screenshot 3](https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg)
-![Screenshot 4](https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg)
-![Screenshot 5](https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg)
+<p align="center">
+  <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" width="80%" />
+  <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" width="80%" />
+  <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" width="80%" />
+  <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" width="80%" />
+  <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" width="80%" />
+</p>
 
 ---
 
