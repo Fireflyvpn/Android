@@ -3,7 +3,7 @@
 ![Header](https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/e808219405ed0cc869793da01773887f1b3581ab/header.svg?token=BLPTCCA6KSNVESJLOB5FHWLHR6LGW)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/5d0eb597d4fde7b279828f7e22e96b420fa73753/iconforgit.svg?token=BLPTCCGZUBZKMNYSNWAPF3LHR6NQ2" alt="Firefly VPN Icon" style="border-radius: 15px; width: 40%; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/5d0eb597d4fde7b279828f7e22e96b420fa73753/iconforgit.svg?token=BLPTCCGZUBZKMNYSNWAPF3LHR6NQ2" alt="Firefly VPN Icon" style="border-radius: 15px; width: 12%; margin-bottom: 20px;" />
 </p>
 
 <p align="left">
