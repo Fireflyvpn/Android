@@ -26,7 +26,7 @@
 <span style="color: lightgray;">Protect your online activity from prying eyes. What you do online, what you download, and what you search for is solely your business.</span>
 
 ✓ Auto Protocol <br>
-<span style="color: lightgray;">Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.</span>
+<span style="color: red;">Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.</span>
 
 ---
 <h3>🚀 Get Started with Firefly VPN</h3>
