@@ -11,7 +11,7 @@
 ---
 <h3> What does Firefly VPN offer?</h3>
 ✓ Bypass Geo-blocking <br>
-Access geo-restricted websites and bypass network censorship with a single tap. <br>
+Access geo-restricted websites and bypass network censorship with a single tap.
 
 ✓ Anonymous Account <br>
 No need to provide any personal information. No username, no password, no email address. 
