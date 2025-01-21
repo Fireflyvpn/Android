@@ -13,35 +13,35 @@ Here are some screenshots of the app:
 <p align="center">
   <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" target="_blank">
-      <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" style="width: 80%; margin-bottom: 10px;" />
+      <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" style="width: 90%; max-width: 600px; margin-bottom: 10px;"/>
     </a>
     <div>Screenshot 1 description (add text here)</div>
   </div>
   
   <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" target="_blank">
-      <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" style="width: 80%; margin-bottom: 10px;" />
+      <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" style="width: 90%; max-width: 600px; margin-bottom: 10px;"/>
     </a>
     <div>Screenshot 2 description (add text here)</div>
   </div>
 
   <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" target="_blank">
-      <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" style="width: 80%; margin-bottom: 10px;" />
+      <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" style="width: 90%; max-width: 600px; margin-bottom: 10px;"/>
     </a>
     <div>Screenshot 3 description (add text here)</div>
   </div>
 
   <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" target="_blank">
-      <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" style="width: 80%; margin-bottom: 10px;" />
+      <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" style="width: 90%; max-width: 600px; margin-bottom: 10px;"/>
     </a>
     <div>Screenshot 4 description (add text here)</div>
   </div>
 
   <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" target="_blank">
-      <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" style="width: 80%; margin-bottom: 10px;" />
+      <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" style="width: 90%; max-width: 600px; margin-bottom: 10px;"/>
     </a>
     <div>Screenshot 5 description (add text here)</div>
   </div>
