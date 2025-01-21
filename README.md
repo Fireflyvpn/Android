@@ -10,7 +10,7 @@
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fireflyvpn)
 ---
 <h3> What does Firefly VPN offer?</h3>
-✓ Bypass Geo-blocking
+✓ Bypass Geo-blocking <br>
 Access geo-restricted websites and bypass network censorship with a single tap.
 
 ✓ Anonymous Account
