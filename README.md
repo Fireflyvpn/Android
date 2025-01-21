@@ -4,7 +4,6 @@
 
 <p align="left" style="display: flex; align-items: flex-start;">
     Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. With Firefly VPN, your browsing activities stay private and secure, shielding you from potential threats and offering peace of mind wherever you browse.
-  </span>
 </p>
 
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fireflyvpn)
@@ -13,17 +12,32 @@
 
 <h3> What does Firefly VPN offer?</h3>
 
-✓ Bypass Geo-blocking <br>
-Access geo-restricted websites and bypass network censorship with a single tap.
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Check_mark_green.svg" alt="check" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Bypass Geo-blocking</strong> <br>
+  Access geo-restricted websites and bypass network censorship with a single tap.
+</p>
 
-✓ Anonymous Account <br>
-No need to provide any personal information. No username, no password, no email address. 
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Check_mark_green.svg" alt="check" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Anonymous Account</strong> <br>
+  No need to provide any personal information. No username, no password, no email address.
+</p>
 
-✓ Unlimited Traffic <br>
-While ensuring anonymity, we provide you with unlimited data access for hassle-free browsing.
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Check_mark_green.svg" alt="check" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Unlimited Traffic</strong> <br>
+  While ensuring anonymity, we provide you with unlimited data access for hassle-free browsing.
+</p>
 
-✓ Zero-Logging Policy <br>
-Protect your online activity from prying eyes. What you do online, what you download, and what you search for is solely your business.
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Check_mark_green.svg" alt="check" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Zero-Logging Policy</strong> <br>
+  Protect your online activity from prying eyes. What you do online, what you download, and what you search for is solely your business.
+</p>
 
-✓ Auto Protocol <br>
-Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Check_mark_green.svg" alt="check" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Auto Protocol</strong> <br>
+  Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.
+</p>
