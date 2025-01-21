@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.fireflyvpn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="width: auto; height: 60px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="width: auto; height: 42px;" />
   </a>
 </p>
 
