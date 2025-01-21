@@ -11,24 +11,41 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 Here are some screenshots of the app:
 
 <p align="center">
-  <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" style="display: inline-block; width: 19%; margin: 0 1%;" />
-  <span style="display: inline-block; width: 19%; text-align: center;">Screenshot 1 Description: This shows how to connect to Firefly VPN.</span>
-</p>
-<p align="center">
-  <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" style="display: inline-block; width: 19%; margin: 0 1%;" />
-  <span style="display: inline-block; width: 19%; text-align: center;">Screenshot 2 Description: The main interface of Firefly VPN with connection options.</span>
-</p>
-<p align="center">
-  <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" style="display: inline-block; width: 19%; margin: 0 1%;" />
-  <span style="display: inline-block; width: 19%; text-align: center;">Screenshot 3 Description: A look at the settings page for customization options.</span>
-</p>
-<p align="center">
-  <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" style="display: inline-block; width: 19%; margin: 0 1%;" />
-  <span style="display: inline-block; width: 19%; text-align: center;">Screenshot 4 Description: Firefly VPN in action, securing your connection.</span>
-</p>
-<p align="center">
-  <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" style="display: inline-block; width: 19%; margin: 0 1%;" />
-  <span style="display: inline-block; width: 19%; text-align: center;">Screenshot 5 Description: The premium feature available after watching an ad.</span>
+  <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+    <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" style="width: 19%; margin-right: 10px;" />
+    <div style="width: 19%; text-align: left;">
+      <h4>Screenshot 1</h4>
+      <p>This shows how to connect to Firefly VPN.</p>
+    </div>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+    <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" style="width: 19%; margin-right: 10px;" />
+    <div style="width: 19%; text-align: left;">
+      <h4>Screenshot 2</h4>
+      <p>The main interface of Firefly VPN with connection options.</p>
+    </div>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+    <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" style="width: 19%; margin-right: 10px;" />
+    <div style="width: 19%; text-align: left;">
+      <h4>Screenshot 3</h4>
+      <p>A look at the settings page for customization options.</p>
+    </div>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+    <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" style="width: 19%; margin-right: 10px;" />
+    <div style="width: 19%; text-align: left;">
+      <h4>Screenshot 4</h4>
+      <p>Firefly VPN in action, securing your connection.</p>
+    </div>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+    <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" style="width: 19%; margin-right: 10px;" />
+    <div style="width: 19%; text-align: left;">
+      <h4>Screenshot 5</h4>
+      <p>The premium feature available after watching an ad.</p>
+    </div>
+  </div>
 </p>
 
 ---
