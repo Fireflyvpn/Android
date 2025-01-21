@@ -68,3 +68,13 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 ## Why Firefly VPN?
 
 Download now and enjoy unrestricted access to your favorite content while Firefly VPN safeguards your data with robust encryption, making it your trusted companion for a safer digital experience.
+
+---
+
+## [Get it Now on Google Play](https://play.google.com/store/apps/details?id=com.fireflyvpn) 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.fireflyvpn">
+    <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Google Play" style="width: 30px; margin-right: 10px;" />
+    Get it Now
+  </a>
+</p>
