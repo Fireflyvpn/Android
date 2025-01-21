@@ -9,21 +9,26 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 ## What does Firefly VPN offer?
 
 <style>
+  /* Slider Container */
   .app__screenshots-wrapper {
     display: flex;
     overflow-x: auto;
     gap: 10px;
     padding: 10px 0;
+    scroll-snap-type: x mandatory;
   }
 
+  /* Individual Screenshot */
   .app__screenshot {
     width: 200px;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     cursor: pointer;
+    scroll-snap-align: start;
   }
 
+  /* List of Screenshots */
   .app__screenshots-list {
     display: flex;
     gap: 10px;
@@ -36,6 +41,16 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 
   .lightbox {
     display: inline-block;
+  }
+
+  /* Optional: Hide scrollbar for cleaner look */
+  .app__screenshots-wrapper::-webkit-scrollbar {
+    display: none;
+  }
+
+  .app__screenshots-wrapper {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
   }
 </style>
 
