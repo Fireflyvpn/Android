@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/e808219405ed0cc869793da01773887f1b3581ab/header.svg?token=BLPTCCA6KSNVESJLOB5FHWLHR6LGW)
 <p align="center">
-  <strong>Ultra-fast, secure, and free VPN. Enjoy one-tap access with no sign-up required.</strong>
+  <strong>Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. With Firefly VPN, your browsing activities stay private and secure, shielding you from potential threats and offering peace of mind wherever you browse.</strong>
 </p>
 
 ---
