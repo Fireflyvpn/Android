@@ -8,7 +8,7 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 
 ## What does Firefly VPN offer?
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Fireflyvpn/Android/main/assets/css/style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Fireflyvpn/Android/main/style.css">
 
 <section class="app__screenshots app__section">
   <div class="container">
