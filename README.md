@@ -1,14 +1,14 @@
 # Firefly VPN
 
-<p align="center">
+<p align="left">
   <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 120px; height: 120px;" />
 </p>
 
-<p align="center">
+<p align="left">
   Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. Enjoy unrestricted access to your favorite content while staying secure and anonymous.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.fireflyvpn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="width: auto; height: 60px;" />
   </a>
