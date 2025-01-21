@@ -1,6 +1,11 @@
 # Firefly VPN
 
-[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fireflyvpn)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.fireflyvpn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="width: auto; height: 60px; margin-right: 10px;" />
+    <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 30px; height: 30px;" />
+  </a>
+</p>
 
 Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. Enjoy unrestricted access to your favorite content while staying secure and anonymous.
 
@@ -68,13 +73,3 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 ## Why Firefly VPN?
 
 Download now and enjoy unrestricted access to your favorite content while Firefly VPN safeguards your data with robust encryption, making it your trusted companion for a safer digital experience.
-
----
-
-## [Get it Now on Google Play](https://play.google.com/store/apps/details?id=com.fireflyvpn) 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.fireflyvpn">
-    <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Google Play" style="width: 30px; margin-right: 10px;" />
-    Get it Now
-  </a>
-</p>
