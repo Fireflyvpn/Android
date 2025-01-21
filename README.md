@@ -9,4 +9,4 @@
 
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fireflyvpn)
 
-<h2 tabindex="-1" class="heading-element" dir="auto">What is Firefly VPN app?</h2>
+<h1> What does Firefly VPN offer?</h1>
