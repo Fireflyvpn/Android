@@ -14,19 +14,19 @@
 <h3> What does Firefly VPN offer?</h3>
 
 ✓ Bypass Geo-blocking <br>
-Access geo-restricted websites and bypass network censorship with a single tap.
+<span style="color: lightgray;">Access geo-restricted websites and bypass network censorship with a single tap.</span>
 
 ✓ Anonymous Account <br>
-No need to provide any personal information. No username, no password, no email address. 
+<span style="color: lightgray;">No need to provide any personal information. No username, no password, no email address.</span>
 
 ✓ Unlimited Traffic <br>
-While ensuring anonymity, we provide you with unlimited data access for hassle-free browsing.
+<span style="color: lightgray;">While ensuring anonymity, we provide you with unlimited data access for hassle-free browsing.</span>
 
 ✓ Zero-Logging Policy <br>
-Protect your online activity from prying eyes. What you do online, what you download, and what you search for is solely your business.
+<span style="color: lightgray;">Protect your online activity from prying eyes. What you do online, what you download, and what you search for is solely your business.</span>
 
 ✓ Auto Protocol <br>
-Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.
+<span style="color: lightgray;">Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.</span>
 
 ---
 <h3>🚀 Get Started with Firefly VPN</h3>
@@ -36,5 +36,3 @@ Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to 
 3. **Done!** You are now connected through a secure proxy. Browse safely and privately.
 
 Download now and enjoy unrestricted access to your favorite content while Firefly VPN safeguards your data with robust encryption, making it your trusted companion for a safer digital experience.
-
-
