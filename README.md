@@ -1,7 +1,6 @@
 # Firefly VPN
 
-![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)
-[Get it on Google Play](https://play.google.com/store/apps/details?id=com.fireflyvpn)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fireflyvpn)
 
 Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. Enjoy unrestricted access to your favorite content while staying secure and anonymous.
 
