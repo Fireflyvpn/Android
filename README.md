@@ -1,7 +1,7 @@
 # Firefly VPN
 
 <p align="left">
-  <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 120px; height: 120px;" />
+  <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 120px; height: 120px; border-radius: 15px;" />
 </p>
 
 <p align="left">
