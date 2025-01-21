@@ -29,12 +29,24 @@ Protect your online activity from prying eyes. What you do online, what you down
 Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.
 
 
-<h3> Get Started with Firefly VPN </h3>
+<h3 style="text-align: center;">🚀 Get Started with Firefly VPN</h3>
 
-<ol>
-  <li><strong>Install Firefly VPN:</strong> Download the app from the Google Play Store and install it on your device.</li>
-  <li><strong>Tap the Connect Button:</strong> Open the app and tap the connect button to activate the VPN.</li>
-  <li><strong>Done!</strong> You are now connected through a secure proxy. Browse safely and privately.</li>
-  <li><strong>Go Premium:</strong> Watch a short ad and enjoy premium features for 2 hours, including faster speeds and priority servers.</li>
-</ol>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/icon-step1.svg" alt="Install Icon" style="width: 40px; margin-right: 15px;" />
+    <p><strong>1. Install Firefly VPN:</strong> Download the app from the Google Play Store and install it on your device.</p>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/icon-step2.svg" alt="Connect Icon" style="width: 40px; margin-right: 15px;" />
+    <p><strong>2. Tap the Connect Button:</strong> Open the app and tap the connect button to activate the VPN.</p>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/icon-step3.svg" alt="Secure Icon" style="width: 40px; margin-right: 15px;" />
+    <p><strong>3. Done!</strong> You are now connected through a secure proxy. Browse safely and privately.</p>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/icon-step4.svg" alt="Premium Icon" style="width: 40px; margin-right: 15px;" />
+    <p><strong>4. Go Premium:</strong> Watch a short ad and enjoy premium features for 2 hours, including faster speeds and priority servers.</p>
+  </div>
+</div>
 
