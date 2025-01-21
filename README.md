@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <strong>Ultra-fast, secure, and free VPN. Enjoy one-tap access with no sign-up required.</strong>
+</p>
+
+---
+
 <p align="left">
   <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="border-radius: 15px; width: 40%; margin-right: 20px; display: inline-block;" />
   <span style="vertical-align: top; display: inline-block; width: 55%;">
