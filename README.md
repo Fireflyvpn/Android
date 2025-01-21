@@ -4,12 +4,10 @@
 
 ---
 
-## Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. Enjoy unrestricted access to your favorite content while staying secure and anonymous.
-
 <p align="left">
   <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="border-radius: 15px; width: 40%; margin-right: 20px; display: inline-block;" />
   <span style="vertical-align: top; display: inline-block; width: 55%;">
-    <p>Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. Enjoy unrestricted access to your favorite content while staying secure and anonymous.</p>
+    <p><strong>Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. Enjoy unrestricted access to your favorite content while staying secure and anonymous.</strong></p>
   </span>
 </p>
 
