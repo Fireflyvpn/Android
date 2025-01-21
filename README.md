@@ -1,9 +1,9 @@
 # Firefly VPN
 
 <p align="center">
+  <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 80px; height: 80px; margin-bottom: 10px;" />
   <a href="https://play.google.com/store/apps/details?id=com.fireflyvpn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="width: auto; height: 60px; margin-right: 10px;" />
-    <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 30px; height: 30px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="width: auto; height: 60px;" />
   </a>
 </p>
 
