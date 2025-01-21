@@ -1,5 +1,9 @@
 # Firefly VPN
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/refs/heads/main/header.jpg?token=GHSAT0AAAAAAC4ZMAIXMSY5MXJIFTHPRBSSZ4PSRHQ" alt="Firefly VPN Header" style="width: 100%; height: auto;" />
+</p>
+
 <p align="left">
   <img src="https://fireflyvpn.com/content/image/nj7g6l2e3gnsjlfeaqzp.svg" alt="Firefly VPN Icon" style="width: 120px; height: 120px; border-radius: 15px;" />
 </p>
