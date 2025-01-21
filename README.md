@@ -1,6 +1,6 @@
 # Firefly VPN
 
-![Header](https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/a831afa15af18391b52f33cf23bbaf54c34de4b4/he3.svg?token=BLPTCCD2YYESNTW4G7JFGZLHR67CC)
+![Header](https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/09e12db9e1a807859638a08643d6055868216ca7/he4.svg?token=BLPTCCDHQPXNG3ES4YIZI6DHR67WA)
 
 <p align="left" style="display: flex; align-items: flex-start;">
   <img src="https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/5d0eb597d4fde7b279828f7e22e96b420fa73753/iconforgit.svg?token=BLPTCCGZUBZKMNYSNWAPF3LHR6NQ2" alt="Firefly VPN Icon" style="width: 10%; margin-right: 20px;"/>
