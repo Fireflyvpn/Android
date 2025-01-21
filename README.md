@@ -14,7 +14,7 @@
 Access geo-restricted websites and bypass network censorship with a single tap.
 
 ✓ Anonymous Account <br>
-No need to provide any personal information. No username, no password, no email address.
+No need to provide any personal information. No username, no password, no email address. <br>
 
 ✓ Unlimited Traffic <br>
 While ensuring anonymity, we provide you with unlimited data access for hassle-free browsing.
