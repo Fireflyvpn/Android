@@ -15,19 +15,19 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 	<div class="app__screenshots-wrapper container-desktop">
 		<div class="app__screenshots-list">
 			<a href="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" class="lightbox">
-				<img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" class="app__screenshot" alt="Screenshot 1 description" />
+				<img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" class="app__screenshot" alt="Screenshot 1: Main Interface" />
 			</a>
 			<a href="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" class="lightbox">
-				<img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" class="app__screenshot" alt="Screenshot 2 description" />
+				<img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" class="app__screenshot" alt="Screenshot 2: Settings Panel" />
 			</a>
 			<a href="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" class="lightbox">
-				<img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" class="app__screenshot" alt="Screenshot 3 description" />
+				<img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" class="app__screenshot" alt="Screenshot 3: Quick Connect" />
 			</a>
 			<a href="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" class="lightbox">
-				<img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" class="app__screenshot" alt="Screenshot 4 description" />
+				<img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" class="app__screenshot" alt="Screenshot 4: Server List" />
 			</a>
 			<a href="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" class="lightbox">
-				<img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" class="app__screenshot" alt="Screenshot 5 description" />
+				<img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" class="app__screenshot" alt="Screenshot 5: Connection Status" />
 			</a>
 		</div>
 	</div>
