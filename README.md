@@ -1,5 +1,6 @@
 # Firefly VPN
 Ultra-fast, secure, and free VPN. Enjoy one-tap access with no sign-up required
+
 ![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)
 
 ---
