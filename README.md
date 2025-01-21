@@ -13,8 +13,8 @@ Ultra-fast, secure, and free VPN. Enjoy one-tap access with no sign-up required
 	</div>
 	<div class="app__screenshots-wrapper container-desktop">
 		<div class="app__screenshots-list">
-			<a href="content/image/lw0n1npa35hf6gmuwcvf.jpg" class="lightbox">
-				<img src="content/image/lw0n1npa35hf6gmuwcvf.jpg" class="app__screenshot" alt="Screenshot 1" />
+			<a href="[content/image/lw0n1npa35hf6gmuwcvf.jpg](https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg)" class="lightbox">
+				<img src="[content/image/lw0n1npa35hf6gmuwcvf.jpg](https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg)" class="app__screenshot" alt="Screenshot 1" />
 			</a>
 			<a href="content/image/fgu3sn4xcjaj7gtf7l43.jpg" class="lightbox">
 				<img src="content/image/fgu3sn4xcjaj7gtf7l43.jpg" class="app__screenshot" alt="Screenshot 2" />
