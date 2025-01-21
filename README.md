@@ -1,5 +1,4 @@
 # Firefly VPN
-
 Ultra-fast, secure, and free VPN. Enjoy one-tap access with no sign-up required.
 
 ![Header](https://raw.githubusercontent.com/Fireflyvpn/fireflyvpn.com/e808219405ed0cc869793da01773887f1b3581ab/header.svg?token=BLPTCCA6KSNVESJLOB5FHWLHR6LGW)
