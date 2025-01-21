@@ -11,11 +11,11 @@ Firefly VPN ensures your online safety and privacy by encrypting your internet c
 Here are some screenshots of the app:
 
 <p align="center">
-  <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" width="80%" />
-  <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" width="80%" />
-  <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" width="80%" />
-  <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" width="80%" />
-  <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" width="80%" />
+  <img src="https://fireflyvpn.com/content/image/lw0n1npa35hf6gmuwcvf.jpg" alt="Screenshot 1" style="display: inline-block; width: 19%; margin: 0 1%;" />
+  <img src="https://fireflyvpn.com/content/image/fgu3sn4xcjaj7gtf7l43.jpg" alt="Screenshot 2" style="display: inline-block; width: 19%; margin: 0 1%;" />
+  <img src="https://fireflyvpn.com/content/image/6nexta2174iuxlmyzlus.jpg" alt="Screenshot 3" style="display: inline-block; width: 19%; margin: 0 1%;" />
+  <img src="https://fireflyvpn.com/content/image/h2ug8d5htypglflkpaf2.jpg" alt="Screenshot 4" style="display: inline-block; width: 19%; margin: 0 1%;" />
+  <img src="https://fireflyvpn.com/content/image/1ndc18evfme8tin5di50.jpg" alt="Screenshot 5" style="display: inline-block; width: 19%; margin: 0 1%;" />
 </p>
 
 ---
