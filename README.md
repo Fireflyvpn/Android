@@ -28,11 +28,11 @@ Protect your online activity from prying eyes. What you do online, what you down
 ✓ Auto Protocol <br>
 Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.
 
-
+---
 <h3>🚀 Get Started with Firefly VPN</h3>
 
 1. **Install Firefly VPN**: Download the app from the Google Play Store and install it on your device.  
 2. **Tap the Connect Button**: Open the app and tap the connect button to activate the VPN.  
 3. **Done!** You are now connected through a secure proxy. Browse safely and privately.  
-4. **Go Premium**: Watch a short ad to unlock premium features, including faster speeds and priority servers, for 2 hours.
+
 
