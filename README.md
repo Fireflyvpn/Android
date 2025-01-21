@@ -8,8 +8,11 @@
 </p>
 
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fireflyvpn)
----
+
+<hr>
+
 <h3> What does Firefly VPN offer?</h3>
+
 ✓ Bypass Geo-blocking <br>
 Access geo-restricted websites and bypass network censorship with a single tap.
 
@@ -24,4 +27,3 @@ Protect your online activity from prying eyes. What you do online, what you down
 
 ✓ Auto Protocol <br>
 Like a beam of light piercing the darkness, Firefly VPN swiftly connects you to the fastest server for seamless browsing.
-
