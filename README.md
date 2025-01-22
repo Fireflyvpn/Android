@@ -1,6 +1,6 @@
 # Firefly VPN
 
-![Header](https://raw.githubusercontent.com/Fireflyvpn/Android/6fe8bb195bf57f7e89fdd2e44b2bd853cf0790c3/header.svg)
+![Header](https://raw.githubusercontent.com/Fireflyvpn/Android/6ec77ae1aad3a7dda69943627fbc7c0cd4ebb577/Items/header.svg)
 
 <p align="left" style="display: flex; align-items: flex-start;">
     Firefly VPN ensures your online safety and privacy by encrypting your internet connection, protecting you from prying eyes on public Wi-Fi networks and cybercriminals. With Firefly VPN, your browsing activities stay private and secure, shielding you from potential threats and offering peace of mind wherever you browse.
