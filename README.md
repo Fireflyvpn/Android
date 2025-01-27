@@ -1,4 +1,4 @@
-# Firefly VPN
+# Download Firefly VPN App
 
 ![Header](https://raw.githubusercontent.com/Fireflyvpn/Android/6ec77ae1aad3a7dda69943627fbc7c0cd4ebb577/Items/header.svg)
 
